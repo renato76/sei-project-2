@@ -1,0 +1,160 @@
+@import "../../node_modules/bulma/sass/utilities/_all.sass";
+
+.navbar {
+  background-color: #e90000;
+  height: 4.6rem;
+  padding-left: 100px;
+}
+
+.navbar-item {
+  color: white;
+  font-weight: bold;
+  background-color: #e90000;
+}
+
+.navbar :hover {
+  background-color: #e90000;
+  font-weight: bold;
+}
+
+.navbar-end {
+  margin-right: 150px;
+}
+
+.navbar-start {
+  margin-left: 80px;
+}
+
+.container-drivers-index {
+  margin-left: 95px;
+  margin-right: 95px;
+}
+
+.container img {
+  padding: 0px; 
+  margin: 0 auto;
+  background-size: cover;
+}
+
+#homepage {
+  padding: 0 50px;
+}
+
+.main-image img {
+  padding: 30px;
+}
+
+.flag img {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-right: 7px;
+  padding-left: 60px;
+  width: 9rem;
+}
+
+.image-show img {
+  width: 75%;
+  padding: 50px 30px;
+  margin-left: 20px;
+  background-color: rgb(247, 247, 247);
+  border-radius: 15px;
+}
+
+.card-header-points {
+  text-align: right;
+  padding-right: 20px;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.card-team {
+  padding-left: 17px;
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bolder;
+  font-size: 60px;
+  padding-left: 100px;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  padding-left: 100px;
+  padding-right: 360px;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.card {
+  border: 6px solid #585858;
+  border-radius: 25px;
+  background-color: #ffffff;
+}
+
+.driver-number {
+  font-size: 40px;
+  padding: 16px;
+  margin: 9px;
+  margin-top: 20px;
+  font-family: 'Quicksand', sans-serif;
+  color: #fc2626d3;
+  background-color: rgba(243, 243, 243, 0.582);
+  border-radius: 20%;
+}
+.hero {
+  background-color: rgb(26, 26, 26);
+}
+
+.right-column {
+  padding-top: 10px;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.driver-info h3 {
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.title {
+  font-weight: bold;
+  padding-bottom: 50px;
+}
+
+.flag {
+  width: 130px;
+  margin-right: 10px;
+}
+
+.drivers-show {
+  background-color: rgb(241, 241, 241);
+  color: rgb(20, 20, 20);
+}
+.card-header-top {
+  border-radius: 25px;
+}
+
+.card-image {
+  border-radius: 25px;
+}
+.buttons {
+  margin: 0 10px;
+
+}
+
+#show-flag {
+  width: 10%;
+}
+
+.button {
+  font-weight: bold;
+}
+
