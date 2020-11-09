@@ -24,7 +24,4 @@ Have a go at adding the remaining RESTful routes. You can do them in any order, 
 ## Tips
 
 * Dont forget to install dependencies with `npm i`
-* Work slowly toward your goal, and test frequently as you go
-* Do not copy / paste from code you have written during class, this will not help you understand how everything fits together
-* Keep your model simple, you can always add more fields later if you want
-* Add one route at a time and test in Insomnia before moving on
+
