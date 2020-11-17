@@ -46,7 +46,6 @@ class DriverEdit extends React.Component {
     this.setState({ formData })
   }
 
-
   render()  {
     return (
       <section className="section">

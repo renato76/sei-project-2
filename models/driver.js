@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-// * Create your Schema here
+// * Schema
 const driverSchema = new mongoose.Schema({
   name: { type: String, required: true },
   surname: { type: String, required: true },
@@ -15,6 +15,6 @@ const driverSchema = new mongoose.Schema({
   worldChampionships: { type: Number, required: false }
 })
 
-// * Register your Schema as a model here
+// * Register Schema
 
 module.exports = mongoose.model('Driver', driverSchema)

@@ -40,7 +40,7 @@ class DriverNew extends React.Component {
     return (
       <section className="section">
         <div className="container">
-          {/* // here we are passing the props to drivershow */}
+          {/* // Passing the props to drivershow */}
           <DriverForm 
             handleChange={this.handleChange} 
             handleSubmit={this.handleSubmit}
