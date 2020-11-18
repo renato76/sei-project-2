@@ -1,5 +1,7 @@
 <img src="./frontend/src/styles/ga-logo.jpg" width="100" height="100">
 
+# SEI 50 Project 2  - Formula One API
+
 ## Table of contents 
 
 * Installation
