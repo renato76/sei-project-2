@@ -93,7 +93,7 @@ Formula One API shows information about the drivers competing in the 2020 FIA F1
 
 Project 2 was my first time building a full stack application. I used Node and Express with Mongo DB to serve data to a front end built with React. The idea for the Formula One API was based on my following of the sport. For this project I focused on just the drivers information and on trying to set up the full stack correctly, and then style as best possible.
 
-## Day 1 
+## Initial Steps
 
 First, I planned what I wanted the app to provide in terms of info and user experience.
 
